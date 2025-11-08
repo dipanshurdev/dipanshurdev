@@ -1,4 +1,4 @@
-[![An image of @amanrawat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanrawat)](https://holopin.io/@amanrawat)
+[![An image of @amanrawat's Holopin profile](https://holopin.me/amanrawat)](https://holopin.io/@amanrawat)
 
 <hr>
   
