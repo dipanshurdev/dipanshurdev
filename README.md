@@ -1,6 +1,4 @@
-
 [![An image of @amanrawat's Holopin profile](https://holopin.me/amanrawat)](https://holopin.io/@amanrawat)
-
 
 <hr>
   
