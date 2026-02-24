@@ -18,7 +18,7 @@ I love creating impactful projects, contributing to the open-source community, a
 
 - 🔭 I’m currently busy in **Building Projects || Contributing to open-source** 
   
-- 👨‍💻 Some of my projects are available at **[My Portfolio](https://dipanshurdev.netlify.app/) Or There ⬇️**
+- 👨‍💻 Some of my projects are available at **[My Portfolio](https://dipanshurdev.xyz) Or There ⬇️**
   
 - 📫 What's my Email **dv451197@gmail.com**
   
