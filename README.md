@@ -1,87 +1,125 @@
+[![Holopin badges](https://holopin.me/amanrawat)](https://holopin.io/@amanrawat)
 
-[![An image of @amanrawat's Holopin profile](https://holopin.me/amanrawat)](https://holopin.io/@amanrawat)
+<img src="https://komarev.com/ghpvc/?username=dev-aman-rawat&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
-<hr>
-  
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=dev-aman-rawat&label=Profile%20views&color=03176e&style=for-the-badge" alt="dev-aman-rawat" />
+<h1 align="center">Hi 👋, I'm Dipanshu Rawat</h1>
+<h3 align="center">🚀 Software Developer | OpenSource Contributor</h3>
 
-# 🤔 About Me:
- <div> 
-   <p> Hi there👋 </p> <p> I'm Dipanshu Rawat, a Full-Stack Developer with over 2 years of experience. My coding journey began with FreeCodeCamp, where I mastered frontend development and earned multiple certifications to enhance my skill set. I specialize in building intuitive user experiences with React.js, Next.js, and modern technologies, while also working on backend solutions with Node.js, appwrite, Express, and MongoDB.
-I love creating impactful projects, contributing to the open-source community, and exploring cutting-edge tech trends. When I’m not coding, you’ll likely find me diving into new frameworks, engaging with tech communities on Twitter and LinkedIn, or enjoying a cup of tea ☕. </p> 
- </div>
- 
-- ## Where am I busy at?
+---
 
-- 🌱 I’m currently learning **New Technologies**
+## 👨‍💻 About Me
 
-- 🔭 I’m currently busy in **Building Projects || Contributing to open-source** 
-  
-- 👨‍💻 Some of my projects are available at **[My Portfolio](https://dipanshurdev.xyz) Or There ⬇️**
-  
-- 📫 What's my Email **dv451197@gmail.com**
-  
-</div>
+I'm **Dipanshu Rawat**, a passionate **Full-Stack Developer with 2+ years of experience** building SaaS.
 
+My coding journey started with **FreeCodeCamp**, where I built a strong foundation in frontend development and earned multiple certifications.
 
-## 🔎 Contact links:
-<div align="center">
+💡 I enjoy building **scalable web apps, intuitive user interfaces, and meaningful developer tools**.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipanshurdev)
-[![Twitter](https://img.shields.io/badge/Twitter-%23000.svg?logo=X&logoColor=white)](https://twitter.com/dipanshurdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipanshurdev) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dev-aman-rawat) 
-</div>
+⚡ I actively contribute to **open-source**, build personal projects, and stay updated with modern technologies.
 
-# ⚛️ My Tools:
-<div align="center">
-  
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2300334a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+☕ When I'm not coding, you’ll find me exploring new frameworks, learning emerging technologies, or enjoying a cup of tea.
 
-![Astro](https://img.shields.io/badge/Astro-%23000000.svg?style=for-the-badge&logo=astro&logoColor=#ffffff)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
-![Node JS](https://img.shields.io/badge/NodeJS-%23000.svg?style=for-the-badge&logo=node.js&logoColor=)
-![Mongo DB](https://img.shields.io/badge/mongoDB-%23000.svg?style=for-the-badge&logo=mongodb&logoColor=#ffffff)
-![Prisma.io](https://img.shields.io/badge/prisma.io-%23025175.svg?style=for-the-badge&logo=prisma&logoColor=)
-![Firebase](https://img.shields.io/badge/firebase-%23000000.svg?style=for-the-badge&logo=firebase)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23000000.svg?style=for-the-badge&logo=appwrite&logoColor=#FD356D)
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-%23000.svg?style=for-the-badge&logo=tailwindcss)
-![Github](https://img.shields.io/badge/Github-121013?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## 🚀 What I'm Doing
 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%23000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23000F.svg?style=for-the-badge&logo=vite)
-![React Router](https://img.shields.io/badge/React%20Router%20Dom-%23000.svg?style=for-the-badge&logo=reactrouter) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+* 🌱 Learning **Python 🐍 | AI/ML**
+* 🔭 Building **AI SaaS**
+* 🤝 Contributing to **open-source**
+* 💡 Experimenting with **modern frameworks**
 
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Figma](https://img.shields.io/badge/figma-%23000.svg?style=for-the-badge&logo=figma) 
-![Canva](https://img.shields.io/badge/Canva-%23000.svg?style=for-the-badge&logo=Canva)
-![Docker](https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge) 
-![React Query](https://img.shields.io/badge/React%20Query-%23000000.svg?style=for-the-badge&logo=reactquery&logoColor=blue)
-![Sanity.io](https://img.shields.io/badge/Sanity-%23ffffff.svg?style=for-the-badge&logo=sanity&logoColor=#D6542A)
-![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git)
+---
 
-![Axios](https://img.shields.io/badge/Axios-%23000.svg?style=for-the-badge&logo=axios&logoColor=)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23593d88.svg?style=for-the-badge&logo=redux)          
-</div>
+## 🌐 Portfolio
 
-## 🔝 Top Contributed Repositories:
+🔗 **Portfolio Website**
+👉 https://dipanshurdev.xyz
+
+---
+
+## 📫 Contact Me
 
 <div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=dipanshurdev&limit=10&hide=B,B+&theme=radical&hide_contributor_rank=false)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/dipanshurdev)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://twitter.com/dipanshurdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dipanshurdev)
+[![Codepen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge\&logo=codepen\&logoColor=white)](https://codepen.io/dev-aman-rawat)
+
+📧 **Email:** [dv451197@gmail.com](mailto:dv451197@gmail.com)
 
 </div>
+
+---
+
+# ⚡ Tech Stack
+
+## 🧠 Languages
+
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge\&logo=typescript)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge\&logo=css3)
+
+---
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/react-black?style=for-the-badge\&logo=react)
+![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge\&logo=next.js)
+![Svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge\&logo=svelte)
+![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge\&logo=astro)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge\&logo=tailwindcss)
+![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge\&logo=mui)
+
+---
+
+## ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge\&logo=mongodb)
+![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge\&logo=prisma)
+![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge\&logo=firebase)
+![Appwrite](https://img.shields.io/badge/appwrite-black?style=for-the-badge\&logo=appwrite)
+
+---
+
+## 🧰 Tools & DevOps
+
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge\&logo=git)
+![Github](https://img.shields.io/badge/github-black?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge\&logo=docker)
+![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge\&logo=vercel)
+![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge\&logo=netlify)
+![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge\&logo=vite)
+![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge\&logo=npm)
+![PNPM](https://img.shields.io/badge/pnpm-black?style=for-the-badge\&logo=pnpm)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dipanshurdev&show_icons=true&theme=radical" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshurdev&layout=compact&theme=radical" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=dipanshurdev&theme=radical"/>
+
+</div>
+
+---
+
+# 🏆 Top Contributed Repositories
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=dipanshurdev\&limit=10\&theme=radical)
+
+</div>
+
+---
+
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
