@@ -55,16 +55,12 @@ My coding journey started with **FreeCodeCamp**, where I built a strong foundati
 # ⚡ Tech Stack
 
 ## 🧠 Languages
-
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge\&logo=typescript)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge\&logo=css3)
 
----
-
 ## 🎨 Frontend
-
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge\&logo=react)
 ![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge\&logo=next.js)
 ![Svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge\&logo=svelte)
@@ -72,10 +68,7 @@ My coding journey started with **FreeCodeCamp**, where I built a strong foundati
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge\&logo=tailwindcss)
 ![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge\&logo=mui)
 
----
-
 ## ⚙️ Backend
-
 ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge\&logo=node.js)
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge\&logo=express)
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge\&logo=mongodb)
@@ -83,10 +76,7 @@ My coding journey started with **FreeCodeCamp**, where I built a strong foundati
 ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge\&logo=firebase)
 ![Appwrite](https://img.shields.io/badge/appwrite-black?style=for-the-badge\&logo=appwrite)
 
----
-
 ## 🧰 Tools & DevOps
-
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge\&logo=git)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge\&logo=github)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge\&logo=docker)
