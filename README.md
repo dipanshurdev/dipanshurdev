@@ -58,7 +58,8 @@ My coding journey started with **FreeCodeCamp**, where I built a strong foundati
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge\&logo=typescript)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge\&logo=css3)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge\&logo=css)
+![Python](https://img.shields.io/badge/python-white?style=for-the-badge\&logo=python)
 
 ## 🎨 Frontend
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge\&logo=react)
@@ -67,6 +68,7 @@ My coding journey started with **FreeCodeCamp**, where I built a strong foundati
 ![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge\&logo=astro)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge\&logo=tailwindcss)
 ![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge\&logo=mui)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge\&logo=typescript)
 
 ## ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge\&logo=node.js)
@@ -75,6 +77,8 @@ My coding journey started with **FreeCodeCamp**, where I built a strong foundati
 ![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge\&logo=prisma)
 ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge\&logo=firebase)
 ![Appwrite](https://img.shields.io/badge/appwrite-black?style=for-the-badge\&logo=appwrite)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge\&logo=django)
+![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge\&logo=python)
 
 ## 🧰 Tools & DevOps
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge\&logo=git)
