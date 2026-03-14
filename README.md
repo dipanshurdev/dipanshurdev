@@ -69,11 +69,12 @@ I love creating **scalable systems, developer tools, and intuitive user experien
 <img src="https://skillicons.dev/icons?i=codepen" />
 </a>
 
+<a href="mailto:dv451197@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+
 </p>
-
-📧 **Email:** [dv451197@gmail.com](mailto:dv451197@gmail.com)
-
----
 
 # ⚡ Tech Stack
 
@@ -92,13 +93,13 @@ I love creating **scalable systems, developer tools, and intuitive user experien
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,prisma,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,prisma,django,appwrite,supabase,postgresql" />
 </p>
 
 ### Tools & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vite,npm,pnpm,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vite,npm,pnpm,figma,ai" />
 </p>
 
 ---
