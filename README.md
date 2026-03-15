@@ -78,46 +78,21 @@ I love creating **scalable systems, developer tools, and intuitive user experien
 
 # ⚡ Tech Stack
 
-### Languages
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
 </p>
-
-### Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,svelte,astro,materialui" />
 </p>
 
-### Backend
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,prisma,django,appwrite,supabase,postgresql" />
 </p>
 
-### Tools & DevOps
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vite,npm,pnpm,figma,ai" />
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dipanshurdev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshurdev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dipanshurdev&theme=tokyonight&hide_border=true"/>
-</p>
-
 
 ---
 
