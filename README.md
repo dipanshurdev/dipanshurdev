@@ -104,16 +104,6 @@ I love creating **scalable systems, developer tools, and intuitive user experien
 
 ---
 
----
-
-# 🏆 Top Contributed Repositories
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=dipanshurdev&limit=10&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
 ⭐ If you like my work, consider giving a star to my repositories!
 </p>
