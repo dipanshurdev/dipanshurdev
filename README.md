@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Building+AI+Products;React+%7C+Next.js+%7C+Node.js;Learning+Python+%26+AI+ML" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=0026bd&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Building+AI+Products;React+%7C+Next.js+%7C+Node.js;Learning+Python+%26+AI+ML" />
 </p>
 
 <p align="center">
