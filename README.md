@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-[![Holopin badges](https://holopin.me/amanrawat)](https://holopin.io/@amanrawat) 
+<!-- [![Holopin badges](https://holopin.me/amanrawat)](https://holopin.io/@amanrawat) -->
 
 <h1 align="center">Hi 👋 I'm Dipanshu Rawat</h1>
 
