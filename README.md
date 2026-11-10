@@ -34,10 +34,10 @@ I love creating **scalable systems, developer tools, and intuitive user experien
 
 # 🚀 Currently
 
-* 🌱 Learning **Python 🐍 | AI / ML**
+* 🌱 Learning **AI / ML**
 * 🔭 Building **AI SaaS products**
 * 🤝 Contributing to **Open Source**
-* 💡 Exploring **modern web frameworks**
+* 💡 Exploring **AI/ML**
 
 ---
 
